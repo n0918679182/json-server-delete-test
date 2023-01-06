@@ -1,0 +1,50 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Wayne",
+            "phone": "0912345678",
+            "bonus": 320
+        },
+        {
+            "id": 2,
+            "name": "abbb",
+            "phone": "0912345678",
+            "bonus": 3200
+        }
+    ],
+    "meal": [
+        {
+            "id": 1,
+            "serial": "DIE3KF94KE",
+            "time": "2022 年 12 月 15 日 13:17",
+            "o": [
+                27,
+                11,
+                2,
+                3,
+                4
+            ],
+            "subtotal": 0,
+            "tableId": "A01",
+            "userId": "",
+            "staffId": "a123"
+        },
+        {
+            "id": 2,
+            "serial": "ABCDE12345",
+            "time": "2022 年 12 月 15 日 13:17",
+            "o": [
+                4,
+                23,
+                44,
+                13,
+                19
+            ],
+            "subtotal": 0,
+            "tableId": "A01",
+            "userId": "",
+            "staffId": "a123"
+        }
+    ]
+}
